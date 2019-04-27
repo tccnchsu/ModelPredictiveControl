@@ -6,6 +6,9 @@ https://www.researchgate.net/publication/317497952_Introduction_to_Control_Syste
 Model-Based Design for Controls
 https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/campaigns/portals/files/controls/model-based-design-for-controls.pdf
 
+Design and Operation of Secure Cyber-Physical Systems
+http://www.fabiopas.it/papers/FP-QZ-14.pdf
+
 Development and Examination of Encrypted Control Systems                             https://www.researchgate.net/publication/324831136_Development_and_Examination_of_Encrypted_Control_Systems
 
 Attack Detection and Prevention for Encrypted Control Systems by Application of Switching-Key Management
