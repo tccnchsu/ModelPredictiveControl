@@ -6,6 +6,9 @@ https://www.researchgate.net/publication/317497952_Introduction_to_Control_Syste
 Model-Based Design for Controls
 https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/campaigns/portals/files/controls/model-based-design-for-controls.pdf
 
+Smart Manufacturing Robotics Cyber Physical System
+https://www.mathworks.com/matlabcentral/fileexchange/38515-smart-manufacturing-robotics-cyber-physical-system
+
 Design and Operation of Secure Cyber-Physical Systems
 http://www.fabiopas.it/papers/FP-QZ-14.pdf
 
