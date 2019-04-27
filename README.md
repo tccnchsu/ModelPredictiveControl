@@ -6,6 +6,11 @@ https://www.researchgate.net/publication/317497952_Introduction_to_Control_Syste
 Model-Based Design for Controls
 https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/campaigns/portals/files/controls/model-based-design-for-controls.pdf
 
+
+Linear Control System Analysis and Design With Matlab
+https://www.academia.edu/17966871/Linear_Control_System_Analysis_and_Design_With_Matlab
+
+
 Model Predictive Control
 
 Use tf to create real-valued or complex-valued transfer function models, or to convert dynamic system models to transfer function form.
