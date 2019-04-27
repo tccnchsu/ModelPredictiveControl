@@ -8,6 +8,9 @@ https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/campaigns/port
 
 Development and Examination of Encrypted Control Systems                             https://www.researchgate.net/publication/324831136_Development_and_Examination_of_Encrypted_Control_Systems
 
+Attack Detection and Prevention for Encrypted Control Systems by Application of Switching-Key Management
+https://www.researchgate.net/publication/329799456_Attack_Detection_and_Prevention_for_Encrypted_Control_Systems_by_Application_of_Switching-Key_Management
+
 Linear Control System Analysis and Design With Matlab
 https://www.academia.edu/17966871/Linear_Control_System_Analysis_and_Design_With_Matlab
 
