@@ -1,4 +1,11 @@
 # ModelPredictiveControl
+
+Introduction to Control Systems Design Using Matlab
+https://www.researchgate.net/publication/317497952_Introduction_to_Control_Systems_Design_Using_Matlab
+
+
+
+
 Model Predictive Control
 
 Use tf to create real-valued or complex-valued transfer function models, or to convert dynamic system models to transfer function form.
