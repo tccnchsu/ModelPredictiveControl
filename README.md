@@ -3,8 +3,8 @@
 Introduction to Control Systems Design Using Matlab
 https://www.researchgate.net/publication/317497952_Introduction_to_Control_Systems_Design_Using_Matlab
 
-
-
+Model-Based Design for Controls
+https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/campaigns/portals/files/controls/model-based-design-for-controls.pdf
 
 Model Predictive Control
 
